@@ -1,5 +1,4 @@
 # database-lab-04-09-2026-report
-# Introduction to Database
 
 Student: Nguyen Pham Tuan  
 Student ID: 11247242  
